@@ -6,6 +6,6 @@ This only for bot icon!
 Ini hanya untuk logo pada bot saja!
 
 **"JP"**
-これはボットアイコンのみ
+これはボットアイコンのみ!
 
 <br />
